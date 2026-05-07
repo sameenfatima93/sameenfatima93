@@ -103,11 +103,16 @@ Frontend Developer | MERN Stack Developer | UI/UX Designer | WordPress Developer
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sameenfatima93&show_icons=true&theme=tokyonight&hide_border=false" alt="Sameen's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sameenfatima93&show_icons=true&theme=tokyonight" alt="Sameen's Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameenfatima93&layout=compact&theme=tokyonight&hide_border=false" alt="Sameen's Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sameenfatima93&layout=compact&theme=tokyonight" alt="Sameen's Top Languages" />
+</p>
+
+<!-- Alternative if Vercel is slow -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameenfatima93&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
