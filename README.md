@@ -133,20 +133,18 @@ Frontend Developer | MERN Stack Developer | UI/UX Designer | WordPress Developer
 
 ---
 
-# 🌐 Connect With Me
+## 📬 Contact Me
 
 <p align="left">
-<a href="https://github.com/sameenfatima93" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-
-<a href="https://www.linkedin.com/in/sameen-fatima-37ab11360/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="https://www.behance.net/sameenfatima13" target="blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" height="35" />
-</a>
+  <a href="https://www.behance.net/sameenfatima13" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
 </p>
 
 ---
