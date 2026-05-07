@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Sameen Fatima - MERN Stack Developer & UI Designer">
+  <img src="Gemini_Generated_Image_c70wx5c70wx5c70w.png" width="100%" alt="Sameen Fatima - MERN Stack Developer & UI Designer">
 </div>
 <h1 align="center">Hi 👋, I'm Sameen Fatima</h1>
 
