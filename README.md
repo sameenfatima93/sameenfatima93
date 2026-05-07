@@ -13,8 +13,7 @@ Frontend Developer | MERN Stack Developer | UI/UX Designer | WordPress Developer
 
 ---
 
-<img align="right" alt="Girl Developer" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
-
+<img align="right" alt="Female Coder" width="320" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 ### 👩‍💻 About Me
 
 - 🌱 Currently learning **MERN Stack & Generative AI**
