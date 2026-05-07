@@ -13,7 +13,7 @@ Frontend Developer | MERN Stack Developer | UI/UX Designer | WordPress Developer
 
 ---
 
-<img align="right" alt="Girl Coding" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+<img align="right" alt="Girl Developer" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 ### 👩‍💻 About Me
 
