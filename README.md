@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="blob:https://gemini.google.com/9d2dacf3-dbbe-4b8d-85b8-f3955af13178" />
-</p>
+<div align="center">
+  <img src="banner.png" width="1280" alt="Gemini_Generated_Image_c70wx5c70wx5c70w.png
+">
+</div>
 <h1 align="center">Hi 👋, I'm Sameen Fatima</h1>
 
 <h3 align="center">
