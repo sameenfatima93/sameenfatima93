@@ -1,6 +1,7 @@
 <div align="center">
   <img src="Gemini_Generated_Image_c70wx5c70wx5c70w.png" width="100%" alt="Sameen Fatima - MERN Stack Developer & UI Designer">
 </div>
+
 <h1 align="center">Hi 👋, I'm Sameen Fatima</h1>
 
 <h3 align="center">
@@ -14,6 +15,7 @@ Frontend Developer | MERN Stack Developer | UI/UX Designer | WordPress Developer
 ---
 
 <img align="right" alt="Female Coder" width="290" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5rOGIxczJldWUyN3g1d2Fvc3ZjdnQ5eG9mZXk5NmRieGhqenZ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OgR2Atf7tNrquqS9xl/giphy.gif">
+
 ### 👩‍💻 About Me
 
 - 🌱 Currently learning **MERN Stack & Generative AI**
@@ -22,29 +24,25 @@ Frontend Developer | MERN Stack Developer | UI/UX Designer | WordPress Developer
 - 🛒 Experienced in **WordPress & WooCommerce**
 - 🎯 Passionate about clean UI and responsive design
 - 📍 Based in Karachi, Pakistan
+- ⚡ **Fast learner** with a **resilient attitude**—always ready to tackle new challenges!
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+### ⚡ Primary: MERN Stack & Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,express,nodejs,tailwind,bootstrap" />
 </p>
 
-### ⚙ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### 🎨 UI/UX Design
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
+### 🎨 Secondary: UI/UX Design & WordPress
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,xd,balsamiq,wordpress,canva" />
 </p>
 
 ### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 </p>
 
 ---
@@ -57,50 +55,48 @@ Frontend Developer | MERN Stack Developer | UI/UX Designer | WordPress Developer
 ---
 
 ## 🌦 Weather App
-🌍 Weather application using OpenWeatherMap API
-
-🔗 Live Demo  
-https://dancing-cobbler-9fba91.netlify.app/
+🌍 Weather application using OpenWeatherMap API for Pakistani cities.
+🔗 [Live Demo](https://dancing-cobbler-9fba91.netlify.app/)
 
 ---
 
 ## 🍽 Salt & Paper Restaurant Website
-✨ SEO-friendly responsive restaurant landing page
-
-🔗 Live Demo  
-https://courageous-hummingbird-7d36f1.netlify.app/
+✨ SEO-friendly responsive restaurant landing page.
+🔗 [Live Demo](https://courageous-hummingbird-7d36f1.netlify.app/)
 
 ---
 
 ## 🚗 Tere Ride-Sharing Page
-🚀 Responsive community management platform
-
-🔗 Live Demo  
-https://whimsical-lamington-facdcf.netlify.app/
+🚀 Responsive community management platform.
+🔗 [Live Demo](https://whimsical-lamington-facdcf.netlify.app/)
 
 ---
 
 ## 💼 Nexcent SaaS Landing Page
-🎨 Fully responsive Figma-to-code layout using Flexbox & Grid
-
-🔗 Live Demo  
-https://dulcet-cocada-0a4035.netlify.app/
+🎨 Fully responsive Figma-to-code layout using Flexbox & Grid.
+🔗 [Live Demo](https://dulcet-cocada-0a4035.netlify.app/)
 
 ---
 
 ## 💖 DOWN Dating Promo Site
-🔥 Modern Bootstrap UI landing page
-
-🔗 Live Demo  
-https://effervescent-sopapillas-124e9a.netlify.app/
+🔥 Modern Bootstrap UI landing page.
+🔗 [Live Demo](https://effervescent-sopapillas-124e9a.netlify.app/)
 
 ---
 
 ## 🏆 Athlete's Edge Sports Website
-⚡ Dynamic and responsive sports website
+⚡ Dynamic and responsive sports website.
+🔗 [Live Demo](https://effervescent-tapioca-fab50c.netlify.app/)
 
-🔗 Live Demo  
-https://effervescent-tapioca-fab50c.netlify.app/
+---
+
+## 🏆 Achievements & Certifications
+
+### 🥇 Awards
+- **2nd Position - SMIT Hackathon 2026**: Awarded for outstanding performance and innovation in web development.
+
+### 📜 Certifications
+- **Cisco Certified: HTML, CSS, and JavaScript**: Verified proficiency in core web technologies.
 
 ---
 
